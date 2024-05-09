@@ -19,9 +19,6 @@ def print_aanbieding():
 decoreer("Aanbieding")
 print_aanbieding()
 
-from reclame import laag_en_hoog
-mijn_lijst = [220, 430, 125, 160, 205, 90, 345]
-print(laag_en_hoog(mijn_lijst))
 
 
 
